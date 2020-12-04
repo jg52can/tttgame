@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642021212090",
+    "firebase_url": "https://tttgame-8b5cb.firebaseio.com",
+    "project_id": "tttgame-8b5cb",
+    "storage_bucket": "tttgame-8b5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642021212090:android:9703d9841e80d2ef1a6783",
+        "android_client_info": {
+          "package_name": "com.example.ttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642021212090-1r8v6p59mi844narkpfah3lgq0ln7b8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8SjwC-c7r_U4p--SAhxNi-0YsZ9tD8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642021212090-1r8v6p59mi844narkpfah3lgq0ln7b8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
